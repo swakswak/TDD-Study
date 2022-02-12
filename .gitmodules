@@ -1,0 +1,3 @@
+[submodule "1-Money"]
+	path = 1-Money
+	url = git@github.com:swakswak/TDD-Study-1-Money.git
